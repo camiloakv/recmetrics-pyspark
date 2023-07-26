@@ -7,7 +7,7 @@ Some routines have been adapted from recmetrics to work with pySpark DataFrames
 and/or to handle bigger datasets. Therefore, some chunks of code have been copied verbatim,
 and functions and parameters names have been kept the same (as much as possible) for better usability.
 
-Furthermore, if you are dealing with small datasets, we recommend to use the recmetrics library (github.com/...) instead, as it most efficiently handles smaller datasets.
+Furthermore, if you are dealing with small datasets, we recommend to use the recmetrics library (https://github.com/statisticianinstilettos/recmetrics) instead, as it most efficiently handles smaller datasets.
 
 ## Where to get it
 The source code is currently hosted on GitHub at:
